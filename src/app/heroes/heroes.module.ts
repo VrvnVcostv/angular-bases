@@ -4,6 +4,7 @@ import { HeroComponent } from './hero/hero.component';
 import { ListComponent } from './list/list.component';
 import { CommonModule } from '@angular/common';
 
+// Modulo de listas y heroes
 @NgModule({
   declarations: [
     HeroComponent,
